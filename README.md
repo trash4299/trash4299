@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-
-
-![Metrics](/github-metrics.svg)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trash4299&label=Profile%20views&color=0e75b6&style=flat" alt="trash4299" /> </p>
 
 ![Metrics](https://metrics.lecoq.io/trash4299?template=classic&music=1&music.provider=spotify&music.mode=top&music.limit=8&music.played.at=false&music.time.range=medium&music.top.type=tracks&music.user=trash4299&config.timezone=America%2FNew_York)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trash4299&label=Profile%20views&color=0e75b6&style=flat" alt="trash4299" /> </p>
-
-![Profile views](https://gpvc.arturio.dev/trash4299)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
