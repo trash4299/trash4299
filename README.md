@@ -33,14 +33,14 @@
 
 <details><summary>Check out what I'm listening to</summary>
 <p>
-
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&count=10&width=750)
-
 </p>
 </details>
 
 
 
-
+<details><summary>Click here for a joke</summary>
+<p>
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
+</p>
+</details>
