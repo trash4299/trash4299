@@ -43,6 +43,8 @@
 
 <details><summary>Click here for a joke</summary>
 <p>
+ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
+ 
 </p>
 </details>
