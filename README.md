@@ -36,8 +36,3 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trash4299)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=trash4299)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trash4299&repo=Verilog-Sudoku-Solver)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
