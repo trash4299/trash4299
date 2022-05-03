@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&count=10&width=1000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
