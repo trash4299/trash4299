@@ -15,16 +15,16 @@
 - 🔭 I’m currently working on brainstorming ideas for my next project
 - 🌱 I’m currently teaching myself quantum computing
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
-- 📫 How to reach me: <ins>vpl8347@rit.edu<ins>
+- 📫 How to reach me: <ins> vpl8347@rit.edu <ins>
 
 <h3 align="left">Works:</h3>
 This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
  
 Some of my notable works from this class are: 
- - [Research Request](../TechnicalWriting/LoboTechProposal.pdf)
- - [Guide to EE at RIT](../TechnicalWriting/Manual.pdf)
- - [Bayside Statistics](../TechnicalWriting/TechHw3.pdf)
- - [Security Clearance](../TechnicalWriting/extendedDef.pdf)
+ - [Research Request](/TechnicalWriting/LoboTechProposal.pdf)
+ - [Guide to EE at RIT](/TechnicalWriting/Manual.pdf)
+ - [Bayside Statistics](/TechnicalWriting/TechHw3.pdf)
+ - [Security Clearance](/TechnicalWriting/extendedDef.pdf)
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
