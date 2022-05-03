@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&width={8})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&width={750})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
