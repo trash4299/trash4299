@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
 
 ![Profile views](https://gpvc.arturio.dev/trash4299)
 
