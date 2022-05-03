@@ -7,7 +7,7 @@
 
 <a href="https://linkedin.com/in/vincent-lobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-lobo" height="30" width="40" /></a>
 <a href="https://instagram.com/vincelobo4299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincelboo4299" height="30" width="40" /></a>
-<a href="https://discord.gg/WjfNHMTeYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WjfNHMTeYv" height="30" width="40" /></a>
+<a href="https://discord.gg/WjfNHMTeYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WjfNHMTeYv" height="60" width="80" /></a>
 </p>
 
 
