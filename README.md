@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/trash4299)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&count=10&width=750)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
