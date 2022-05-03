@@ -25,10 +25,10 @@ This semester I took a class called Technical Writing where I developed my skill
 <p align="left">
  
  Some of my notable works from this class are: 
-  - [Research Request](../blob/master/TechnicalWriting/LoboTechProposal.pdf)
-  - [Guide to EE at RIT](../blob/master/TechnicalWriting/Manual.pdf)
-  - [Bayside Statistics](../blob/master/TechnicalWriting/TechHw3.pdf)
-  - [Security Clearance](../blob/master/TechnicalWriting/extendedDef.pdf)
+  - [Research Request](../master/TechnicalWriting/LoboTechProposal.pdf)
+  - [Guide to EE at RIT](../master/TechnicalWriting/Manual.pdf)
+  - [Bayside Statistics](../master/TechnicalWriting/TechHw3.pdf)
+  - [Security Clearance](../master/TechnicalWriting/extendedDef.pdf)
  
 </p>
  
