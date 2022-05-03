@@ -23,11 +23,13 @@
 This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
  
 <p align="left">
-Some of my notable works from this class are: 
- - [Research Request](/TechnicalWriting/LoboTechProposal.pdf)
- - [Guide to EE at RIT](/TechnicalWriting/Manual.pdf)
- - [Bayside Statistics](/TechnicalWriting/TechHw3.pdf)
- - [Security Clearance](/TechnicalWriting/extendedDef.pdf)
+ 
+ Some of my notable works from this class are: 
+  - [Research Request](/TechnicalWriting/LoboTechProposal.pdf)
+  - [Guide to EE at RIT](/TechnicalWriting/Manual.pdf)
+  - [Bayside Statistics](/TechnicalWriting/TechHw3.pdf)
+  - [Security Clearance](/TechnicalWriting/extendedDef.pdf)
+ 
 </p>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
