@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Vince</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trash4299&label=Profile%20views&color=0e75b6&style=flat" alt="trash4299" /> </p>
 
 ![Profile views](https://gpvc.arturio.dev/trash4299)
@@ -23,6 +22,11 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&count=10&width=750)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vincent-lobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-lobo" height="30" width="40" /></a>
+<a href="https://instagram.com/vincelboo4299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincelboo4299" height="30" width="40" /></a>
+<a href="https://discord.gg/WjfNHMTeYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WjfNHMTeYv" height="30" width="40" /></a>
+</p>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
