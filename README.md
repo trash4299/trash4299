@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&width={8})
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
