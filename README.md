@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on brainstorming ideas for my next project
 - 🌱 I’m currently teaching myself quantum computing
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
