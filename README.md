@@ -18,6 +18,9 @@
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
 - 📫 How to reach me: vpl8347@rit.edu
 
+You can find my favorite projects below in the pinned projects section
+
+
 <h3 align="left">Works:</h3>
 This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
  
