@@ -11,22 +11,24 @@
 <a href="https://discord.gg/WjfNHMTeYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WjfNHMTeYv" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">About me:</h3>
 - 🔭 I’m currently working on brainstorming ideas for my next project
 - 🌱 I’m currently teaching myself quantum computing
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
 - 📫 How to reach me: <ins>vpl8347@rit.edu<ins>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Works:</h3>
+This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
+Some of my notable works from this class are: 
+ - [Research Request](../TechnicalWriting/LoboTechProposal.pdf)
+ - [Guide to EE at RIT](../TechnicalWriting/Manual.pdf)
+ - [Bayside Statistics](../TechnicalWriting/TechHw3.pdf)
+ - [Security Clearance](../TechnicalWriting/extendedDef.pdf)
 
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trash4299&show_icons=true&locale=en&layout=compact" alt="trash4299" /></p>
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trash4299&" alt="trash4299" /></p>
 
 
@@ -39,10 +41,10 @@
 </p>
 </details>
 
-
-
 <details><summary>Click here for a joke</summary>
 <p>
+ 
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
+ 
 </p>
 </details>
