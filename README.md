@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on brainstorming ideas for my next project
 - 🌱 I’m currently teaching myself quantum computing
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
-- 📫 How to reach me: [vpl8347@rit.edu](mailto:vpl8347@rit.edu)
+- 📫 How to reach me: vpl8347@rit.edu
 </p>
 
 <h3 align="left">Works:</h3>
@@ -25,10 +25,10 @@ This semester I took a class called Technical Writing where I developed my skill
 <p align="left">
  
  Some of my notable works from this class are: 
-  - [Research Request](../TechnicalWriting/LoboTechProposal.pdf)
-  - [Guide to EE at RIT](../TechnicalWriting/Manual.pdf)
-  - [Bayside Statistics](../TechnicalWriting/TechHw3.pdf)
-  - [Security Clearance](../TechnicalWriting/extendedDef.pdf)
+  - [Research Request](../blob/master/TechnicalWriting/LoboTechProposal.pdf)
+  - [Guide to EE at RIT](../blob/master/TechnicalWriting/Manual.pdf)
+  - [Bayside Statistics](../blob/master/TechnicalWriting/TechHw3.pdf)
+  - [Security Clearance](../blob/master/TechnicalWriting/extendedDef.pdf)
  
 </p>
  
