@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trash4299)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trash4299&repo=github-Verilog-Sudoku-Solver)](https://github.com/trash4299/Verilog-Sudoku-Solver)
+
+
+
 <!--
 **trash4299/trash4299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
