@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trash4299&label=Profile%20views&color=0e75b6&style=flat" alt="trash4299" /> </p>
 
+![Profile views](https://gpvc.arturio.dev/trash4299)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +18,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
 
-![Profile views](https://gpvc.arturio.dev/trash4299)
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vincelobo4299&count=10&width=750)
