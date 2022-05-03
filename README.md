@@ -12,12 +12,10 @@
 </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">
 - 🔭 I’m currently working on brainstorming ideas for my next project
 - 🌱 I’m currently teaching myself quantum computing
 - ⚡ Fun fact: I can juggle a soccer ball 100 times
 - 📫 How to reach me: vpl8347@rit.edu
-</p>
 
 <h3 align="left">Works:</h3>
 This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
