@@ -33,9 +33,15 @@ This semester I took a class called Technical Writing where I developed my skill
   - [Security Clearance](../master/TechnicalWriting/extendedDef.pdf)
  
 </p>
+
+<details><summary>Stats</summary>
+<p>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+</p>
+</details>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trash4299&show_icons=true&locale=en&layout=compact" alt="trash4299" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trash4299&" alt="trash4299" /></p>
 
