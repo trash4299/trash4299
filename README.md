@@ -11,10 +11,10 @@
 </p>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on brainstorming ideas for my next project
+- 🌱 I’m currently teaching myself quantum computing
+- ⚡ Fun fact: I can juggle a soccer ball 100 times
+- 📫 How to reach me: <ins>vpl8347@rit.edu<ins>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trash4299&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
