@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
+
+
+![Metrics](https://metrics.lecoq.io/trash4299?template=classic&music=1&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&config.timezone=America%2FNew_York)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trash4299&label=Profile%20views&color=0e75b6&style=flat" alt="trash4299" /> </p>
 
 ![Profile views](https://gpvc.arturio.dev/trash4299)
