@@ -19,19 +19,6 @@
 - 📫 How to reach me: vpl8347@rit.edu
 
 
-<h3 align="left">Works:</h3>
-This semester I took a class called Technical Writing where I developed my skills in analyzing, organizing, and styling content so that it would be accessible for different audiences.
- 
-<p align="left">
- 
- Some of my notable works from this class are: 
-  - [Research Request](https://github.com/trash4299/trash4299/blob/main/TechnicalWriting/LoboTechProposal.pdf)
-  - [Guide to EE at RIT](https://github.com/trash4299/trash4299/blob/main/TechnicalWriting/Manual.pdf)
-  - [Bayside Statistics](https://github.com/trash4299/trash4299/blob/main/TechnicalWriting/TechHw3.pdf)
-  - [Security Clearance](https://github.com/trash4299/trash4299/blob/main/TechnicalWriting/extendedDef.pdf)
- 
-</p>
-
 <details><summary>Stats</summary>
 <p>
  
